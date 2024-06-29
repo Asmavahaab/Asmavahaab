@@ -3,8 +3,11 @@
 I'm T A Asma
 
 ✨ I'm a Web Developer and a Data Analytics enthusiast
+
 🌱 I’m currently learning ReactJS
+
 📫 Reach out to me: asmavahab123@gmail.com
+
 
 <!--
 **Asmavahaab/Asmavahaab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
