@@ -2,6 +2,8 @@
 
 I'm T A Asma
 
+⚡ I'm a Btech CS Student @ MEC
+
 ✨ I'm a Web Developer and a Data Analytics enthusiast
 
 🌱 I’m currently learning ReactJS
